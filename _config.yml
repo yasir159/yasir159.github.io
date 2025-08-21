@@ -15,7 +15,7 @@ title: Yasir Saeed's Portfolio # This is what shows up in the tab of the browser
 name: Yasir Saeed
 headline: 3rd Year Mechatronics Engineering Student
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  A very cool intro goes here fr #(You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.)
+  A very cool intro goes here fr # (You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.)
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
