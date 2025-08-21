@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LED Controller
+title: LED Control System
 description: Used an ESP32 and the Qt framework to build a GUI that controls lighting on an LED strip
 skills: 
 - Arduino
