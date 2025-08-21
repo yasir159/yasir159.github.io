@@ -59,12 +59,12 @@ skills:
     tools:
     - GD&T ASME Y14
     - ISO fits and tolerances
-    - PLM (PTC Windchill / Arena)   
   - category: PCB Design
     tools:
     - Altium
     - KiCad
   - category: Coding
+    tools:
     - C/C++
     - Python
     - Java
