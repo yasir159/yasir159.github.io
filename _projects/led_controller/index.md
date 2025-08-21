@@ -5,7 +5,7 @@ description: Used an ESP32 and the Qt framework to build a GUI that controls lig
 skills: 
 - Arduino
 - Breadboarding for circuit testing
-- C++
+- C/C++
 - Git
 - ESP32 Microcontrollers 
 main-image: /project.webp 
